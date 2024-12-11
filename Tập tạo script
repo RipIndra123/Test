@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Test",--test script 
+    logoscript = "997530690",--ID Logo Script
+    tacgia = "sadas"-- Rip_IndraKunn
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rip_IndraKunn/vesion/refs/heads/main/scriptbffree.lua"))()
